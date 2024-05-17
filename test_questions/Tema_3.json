@@ -1,0 +1,162 @@
+[
+    {
+        "question": "¿Qué componente del SO se encarga de administrar los distintos softwares dentro del sistema embebido?",
+        "a": "Controlador de dispositivos",
+        "b": "Gestor de procesos",
+        "c": "Middleware",
+        "d": "Kernel",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es una de las funciones de los controladores de dispositivos?",
+        "a": "Programación prioritaria",
+        "b": "Gestión de hilos",
+        "c": "Inicio de hardware",
+        "d": "Temporizadores",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué requisito de hardware es importante para un sistema operativo embebido?",
+        "a": "Eficiencia energética",
+        "b": "Alta capacidad de almacenamiento",
+        "c": "Soporte a plataformas",
+        "d": "Red adaptativa",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál es una característica del middleware orientado a mensajes (MOM)?",
+        "a": "Permite el acceso a bases de datos",
+        "b": "Gestiona los temporizadores",
+        "c": "Sincronización de hilos",
+        "d": "Comunicación entre procesos",
+        "answer": "d"
+    },
+    {
+        "question": "¿Qué función cumple el kernel en un sistema operativo embebido?",
+        "a": "Inicializar el hardware",
+        "b": "Controlar los pines de E/S",
+        "c": "Gestionar la funcionalidad principal del sistema",
+        "d": "Proporcionar conectividad por cable o WiFi",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un requisito de funcionamiento para un sistema operativo embebido?",
+        "a": "Lenguajes de programación estándar",
+        "b": "Fiabilidad",
+        "c": "Capacidad de almacenamiento",
+        "d": "Controladores de hardware avanzados",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es una de las áreas de aplicación de Arduino?",
+        "a": "Computación en la nube",
+        "b": "Prototipado de productos",
+        "c": "Desarrollo de software empresarial",
+        "d": "Diseño gráfico",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué es un sistema operativo embebido?",
+        "a": "Un sistema operativo estándar para PC",
+        "b": "Un conjunto de bibliotecas de software opcional",
+        "c": "Un dispositivo de hardware específico",
+        "d": "Un middleware para redes",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué define la norma POSIX?",
+        "a": "Una interfaz estándar del sistema operativo y el entorno",
+        "b": "Una metodología de programación de bajo nivel",
+        "c": "Un protocolo de comunicación inalámbrica",
+        "d": "Un tipo de hardware embebido",
+        "answer": "a"
+    },
+    {
+        "question": "¿Qué componente del sistema operativo embebido gestiona las interrupciones y errores?",
+        "a": "Controlador de dispositivos",
+        "b": "Kernel",
+        "c": "Gestor de procesos",
+        "d": "Middleware",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un requisito de hardware para un sistema operativo embebido?",
+        "a": "Bajo consumo de memoria",
+        "b": "Alta capacidad de CPU",
+        "c": "Soporte a plataformas variadas",
+        "d": "Operar sin componentes avanzados como unidad de punto flotante",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué característica ofrece la Raspberry Pi en comparación con Arduino?",
+        "a": "Control directo de pines de E/S",
+        "b": "Interacción de software y hardware de alto nivel",
+        "c": "No ejecuta un sistema operativo",
+        "d": "Diseñado para programación de bajo nivel",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es una ventaja educativa de Arduino?",
+        "a": "Alta complejidad en el desarrollo",
+        "b": "Poca documentación disponible",
+        "c": "Permite crear sistemas con pocos conocimientos de hardware y software",
+        "d": "Altos costes de desarrollo",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué función NO es realizada por los controladores de dispositivos en un SO embebido?",
+        "a": "Lectura de hardware",
+        "b": "Apagado de hardware",
+        "c": "Sincronización de procesos",
+        "d": "Inicio de hardware",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un tipo de middleware en sistemas embebidos?",
+        "a": "Kernel",
+        "b": "Gestor de procesos",
+        "c": "Middleware orientado a mensajes (MOM)",
+        "d": "POSIX",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué se entiende por eficiencia energética en los requisitos de funcionamiento?",
+        "a": "Minimizar el uso de energía para prolongar la autonomía",
+        "b": "Maximizar la capacidad de CPU",
+        "c": "Aumentar el uso de la memoria RAM",
+        "d": "Incrementar la velocidad de procesamiento",
+        "answer": "a"
+    },
+    {
+        "question": "¿Cuál es una limitación del uso de Arduino a nivel comercial?",
+        "a": "Alto rendimiento en comparación con otros microcontroladores",
+        "b": "Bajo coste de producción en masa",
+        "c": "Relación rendimiento/precio desfavorable",
+        "d": "Gran disponibilidad de herramientas de desarrollo",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué función tiene la programación prioritaria en un SO embebido?",
+        "a": "Controlar los pines de E/S",
+        "b": "Determinar el orden de concesión a los hilos listos para ejecutarse",
+        "c": "Inicializar el hardware",
+        "d": "Sincronizar los procesos",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué ventaja proporciona el uso de una interfaz de programación estándar como POSIX?",
+        "a": "Incrementa la complejidad del desarrollo de software",
+        "b": "Simplifica la migración del software existente",
+        "c": "Limita la compatibilidad con otros sistemas operativos",
+        "d": "Reduce la eficiencia del sistema operativo",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué se entiende por temporizadores en un SO embebido?",
+        "a": "Mecanismos para notificar a un hilo cuando ha pasado una cantidad específica de tiempo",
+        "b": "Funciones para inicializar el hardware",
+        "c": "Componentes para gestionar la memoria",
+        "d": "Controladores de acceso a la red",
+        "answer": "a"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+      "question": "¿Qué es un sensor?",
+      "a": "Un dispositivo que puede detectar cambios en un entorno y enviar información a otros componentes electrónicos",
+      "b": "Un dispositivo que interactúa con el entorno para cambiar condiciones físicas",
+      "c": "Un componente que solo recibe información",
+      "d": "Un elemento que se utiliza solo para medir temperatura",
+      "answer": "a"
+    },
+    {
+      "question": "¿Cuál es la función principal de un actuador?",
+      "a": "Medir fenómenos físicos y transformarlos en señales eléctricas",
+      "b": "Detectar cambios en un entorno",
+      "c": "Interactuar con el entorno para cambiar condiciones físicas",
+      "d": "Enviar datos a un procesador de computadora",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de señales producen los sensores y actuadores analógicos?",
+      "a": "Señales digitales",
+      "b": "Voltajes discretos de 0 o 1",
+      "c": "Una tensión analógica continua proporcional a la medida",
+      "d": "Señales de frecuencia variable",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué indica un valor de 5V en una señal digital?",
+      "a": "Estado apagado",
+      "b": "Estado encendido",
+      "c": "Error de señal",
+      "d": "Voltaje nulo",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué interfaz de conexión permite a la Raspberry Pi interactuar con el mundo mediante pines?",
+      "a": "I2C",
+      "b": "UART",
+      "c": "GPIO",
+      "d": "SPI",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué pines en la Raspberry Pi se utilizan para la comunicación I2C?",
+      "a": "Pines 1 y 2",
+      "b": "Pines 3 y 5",
+      "c": "Pines 7 y 8",
+      "d": "Pines 9 y 10",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué protocolo de comunicación multimaestro se utiliza para comunicar entre varias placas como Raspberry Pi y Arduino?",
+      "a": "I2C",
+      "b": "SPI",
+      "c": "UART",
+      "d": "GPIO",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de sensor es el COZIR-A 2.000 ppm?",
+      "a": "Sensor de temperatura",
+      "b": "Sensor de presión",
+      "c": "Sensor de calidad del aire",
+      "d": "Sensor de CO2",
+      "answer": "d"
+    },
+    {
+      "question": "¿Cuál es el propósito principal del protocolo I2C?",
+      "a": "Conectar sensores a través de señales analógicas",
+      "b": "Leer datos de sensores y activar componentes",
+      "c": "Comunicación entre computadoras",
+      "d": "Enviar datos de vídeo",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué protocolo requiere 5 pines para su funcionamiento y puede configurarse para que funcione más rápido que I2C?",
+      "a": "GPIO",
+      "b": "UART",
+      "c": "SPI",
+      "d": "I2C",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de sensor es un fotorresistor?",
+      "a": "Sensor de presión",
+      "b": "Sensor de sonido",
+      "c": "Sensor de luz",
+      "d": "Acelerómetro",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué hace un acelerómetro analógico?",
+      "a": "Mide la temperatura ambiente",
+      "b": "Produce un voltaje variable basado en la aceleración aplicada",
+      "c": "Detecta cambios en la presión del aire",
+      "d": "Mide la distancia a objetos cercanos",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué dispositivo se utiliza para convertir señales analógicas en digitales para su interpretación por la Raspberry Pi?",
+      "a": "Fotorresistencia",
+      "b": "Convertidor PCF8591",
+      "c": "Actuador digital",
+      "d": "Módulo de comunicación I2C",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué tipo de sensor traduce la amplitud del sonido en un voltaje eléctrico?",
+      "a": "Sensor de temperatura",
+      "b": "Sensor de presión",
+      "c": "Sensor de sonido",
+      "d": "Sensor de luz",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de sensor se utiliza para detectar cambios de temperatura y puede ser de tipo PTC o NTC?",
+      "a": "Acelerómetro",
+      "b": "Termistor",
+      "c": "Sensor de presión",
+      "d": "Sensor de sonido",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué tecnología de detección es común en acelerómetros digitales para aplicaciones como bolsas de aire y dispositivos móviles?",
+      "a": "Capacitancia variable",
+      "b": "Cambio de resistencia",
+      "c": "Capacitancia en masa sísmica",
+      "d": "Vibración piezoeléctrica",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de sensor utiliza ondas sonoras ultrasónicas para medir la distancia a un objeto?",
+      "a": "Sensor de infrarrojos pasivo",
+      "b": "Sensor de temperatura",
+      "c": "Sensor de ultrasonidos",
+      "d": "Sensor de humedad",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué tipo de sensor mide la luz infrarroja irradiada por objetos en su campo de visión?",
+      "a": "Sensor de presión",
+      "b": "Sensor PIR",
+      "c": "Sensor de sonido",
+      "d": "Acelerómetro",
+      "answer": "b"
+    },
+    {
+      "question": "¿Qué dispositivo pequeño incorpora un motor de CC, un tren de engranajes y un potenciómetro, y se puede colocar en posiciones angulares específicas?",
+      "a": "Motor paso a paso",
+      "b": "Actuador digital",
+      "c": "Servo",
+      "d": "Sensor PIR",
+      "answer": "c"
+    },
+    {
+      "question": "¿Qué motor se mueve en pasos discretos y puede lograr un control de posicionamiento y velocidad muy precisos?",
+      "a": "Servo",
+      "b": "Motor de inducción",
+      "c": "Motor paso a paso",
+      "d": "Motor de corriente continua",
+      "answer": "c"
+    }
+  ]
+  

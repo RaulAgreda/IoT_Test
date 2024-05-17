@@ -1,0 +1,162 @@
+[
+    {
+        "question": "¿Qué diferencia a un dispositivo IoT de un dispositivo 'inteligente'?",
+        "a": "La capacidad de procesamiento",
+        "b": "La conexión a la red",
+        "c": "El uso de sensores",
+        "d": "La integración de actuadores",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es un componente típico de una solución IoT?",
+        "a": "Plataformas de IoT",
+        "b": "Dispositivos móviles",
+        "c": "Sistemas operativos",
+        "d": "Redes sociales",
+        "answer": "a"
+    },
+    {
+        "question": "¿Qué capa en una arquitectura genérica de IoT se encarga de la creación de abstracciones de los servicios ofrecidos por los recursos físicos?",
+        "a": "API 'aguas abajo'",
+        "b": "Capa central",
+        "c": "API 'aguas arriba'",
+        "d": "Capa de aplicación",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es un área de aplicación de IoT mencionada en el documento?",
+        "a": "Fabricación industrial",
+        "b": "Transporte y movilidad",
+        "c": "Salud y bienestar",
+        "d": "Energía",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué porcentaje de los proyectos de IoT se encuentran en el área de transporte y movilidad según el análisis de 2020?",
+        "a": "10%",
+        "b": "15%",
+        "c": "22%",
+        "d": "14%",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué elemento no es mencionado como parte de un dispositivo IoT típico?",
+        "a": "Unidad de procesamiento",
+        "b": "Unidad de comunicación",
+        "c": "Unidad de almacenamiento masivo",
+        "d": "Unidad de potencia/energía",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál es una función clave de la capa 'IntraNode' en una nube de cosas?",
+        "a": "Manejar las interacciones entre diferentes nubes",
+        "b": "Virtualizar los recursos proporcionados por los dispositivos",
+        "c": "Proveer API para administrar servicios",
+        "d": "Ofrecer instancias de software",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué tecnología no es mencionada como un protocolo de comunicación para dispositivos IoT?",
+        "a": "REST",
+        "b": "MQTT",
+        "c": "FTP",
+        "d": "CoAP",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál es una característica de las puertas de enlace IoT?",
+        "a": "Se conectan directamente a Internet sin necesidad de hardware adicional",
+        "b": "Utilizan un solo tipo de canal de comunicación",
+        "c": "Permiten la comunicación de dispositivos con el sistema ascendente",
+        "d": "Funcionan exclusivamente con tecnología Bluetooth",
+        "answer": "c"
+    },
+    {
+        "question": "¿Cuál es un beneficio de usar la computación en la nube en IoT?",
+        "a": "Reducción del tamaño de los dispositivos",
+        "b": "Gestión de la heterogeneidad de dispositivos",
+        "c": "Aumento de la capacidad de procesamiento local",
+        "d": "Eliminación de la necesidad de sensores",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es una de las funciones del 'Gestor de dispositivos' en una plataforma IoT?",
+        "a": "Monitorear el consumo de energía",
+        "b": "Controlar el acceso en lectura y escritura a datos almacenados",
+        "c": "Proveer almacenamiento en la nube",
+        "d": "Gestionar la seguridad de las comunicaciones",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué capa en una arquitectura de IoT se encarga de la virtualización de los recursos proporcionados por los dispositivos?",
+        "a": "IntraCloud",
+        "b": "IntraNode",
+        "c": "InterCloud",
+        "d": "API 'aguas abajo'",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es la principal preocupación en el uso de IoT para el manejo de calles y tráfico?",
+        "a": "Optimización del consumo de gasolina",
+        "b": "Control de visitantes",
+        "c": "Manejo de la congestión y disminución de accidentes",
+        "d": "Automatización del estacionamiento",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué protocolo de comunicación se utiliza comúnmente en sistemas IoT y se menciona en el documento?",
+        "a": "HTTP",
+        "b": "FTP",
+        "c": "SMTP",
+        "d": "POP3",
+        "answer": "a"
+    },
+    {
+        "question": "¿Qué tecnología es clave para mejorar la seguridad y protección en plantas industriales mediante IoT?",
+        "a": "Big Data",
+        "b": "Machine Learning",
+        "c": "Blockchain",
+        "d": "Virtual Reality",
+        "answer": "a"
+    },
+    {
+        "question": "¿Cuál es un desafío mencionado en la gestión de inventarios con IoT?",
+        "a": "Monitoreo de la temperatura en tiempo real",
+        "b": "Rastreo global a nivel de artículo de línea",
+        "c": "Control de acceso en redes IoT",
+        "d": "Optimización de las rutas de transporte",
+        "answer": "b"
+    },
+    {
+        "question": "¿Qué capa de la arquitectura genérica para la futura IoT se encarga de crear abstracciones de los recursos físicos?",
+        "a": "Capa central (Core)",
+        "b": "API 'aguas arriba'",
+        "c": "API 'aguas abajo'",
+        "d": "Capa de virtualización",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué aplicación de IoT se beneficia del monitoreo cercano para eliminar desperdicios y trabajo innecesario?",
+        "a": "Gestión de la cadena de suministro",
+        "b": "Control del flujo de producción",
+        "c": "Optimización del empaquetado",
+        "d": "Monitoreo de seguridad",
+        "answer": "b"
+    },
+    {
+        "question": "¿Cuál es una de las áreas principales de aplicación de IoT mencionada en el análisis de 2020?",
+        "a": "Agricultura inteligente",
+        "b": "Educación",
+        "c": "Energía",
+        "d": "Automatización del hogar",
+        "answer": "c"
+    },
+    {
+        "question": "¿Qué componente en una arquitectura IoT se encarga del control de las comunicaciones entre dispositivos y la plataforma?",
+        "a": "Message Bus",
+        "b": "Edge Interface",
+        "c": "Message Broker",
+        "d": "Gestor de dispositivos",
+        "answer": "c"
+    }
+]
